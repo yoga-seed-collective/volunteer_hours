@@ -1,2 +1,2 @@
 # volunteer_hours
-Volunteer hours tracker
+Volunteer hours tracker - The Yoga Seed Collective
